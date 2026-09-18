@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GABRIEL DIAZ\\source\\repos\\InventorySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32EA9099-402F-4F5D-9135-4B63981F45A3}|..\\Inventory.Business\\3. Inventory.Business.csproj|c:\\users\\gabriel diaz\\source\\repos\\inventory.business\\interfaces\\iinventorymovementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EA9099-402F-4F5D-9135-4B63981F45A3}|..\\Inventory.Business\\3. Inventory.Business.csproj|c:\\users\\gabriel diaz\\source\\repos\\inventory.business\\domainservices\\inventorymovementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA85454-66F8-426C-BC5D-9C9B9D1683E4}|..\\Inventory.Dto\\2. Inventory.DTOs.csproj|c:\\users\\gabriel diaz\\source\\repos\\inventory.dto\\inventorymovementcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E74D8C-08E9-40B4-860E-AA735AE6E8C3}|..\\Inventory.Persistence\\4. Inventory.Persistence.csproj|c:\\users\\gabriel diaz\\source\\repos\\inventory.persistence\\contexts\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryMovementCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\GABRIEL DIAZ\\source\\repos\\Inventory.Dto\\InventoryMovementCreateDto.cs",
+              "RelativeDocumentMoniker": "..\\Inventory.Dto\\InventoryMovementCreateDto.cs",
+              "ToolTip": "C:\\Users\\GABRIEL DIAZ\\source\\repos\\Inventory.Dto\\InventoryMovementCreateDto.cs",
+              "RelativeToolTip": "..\\Inventory.Dto\\InventoryMovementCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T14:47:16.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryMovementService.cs",
+              "DocumentMoniker": "C:\\Users\\GABRIEL DIAZ\\source\\repos\\Inventory.Business\\DomainServices\\InventoryMovementService.cs",
+              "RelativeDocumentMoniker": "..\\Inventory.Business\\DomainServices\\InventoryMovementService.cs",
+              "ToolTip": "C:\\Users\\GABRIEL DIAZ\\source\\repos\\Inventory.Business\\DomainServices\\InventoryMovementService.cs",
+              "RelativeToolTip": "..\\Inventory.Business\\DomainServices\\InventoryMovementService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwFEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T19:09:00.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IInventoryMovementService.cs",
+              "DocumentMoniker": "C:\\Users\\GABRIEL DIAZ\\source\\repos\\Inventory.Business\\Interfaces\\IInventoryMovementService.cs",
+              "RelativeDocumentMoniker": "..\\Inventory.Business\\Interfaces\\IInventoryMovementService.cs",
+              "ToolTip": "C:\\Users\\GABRIEL DIAZ\\source\\repos\\Inventory.Business\\Interfaces\\IInventoryMovementService.cs",
+              "RelativeToolTip": "..\\Inventory.Business\\Interfaces\\IInventoryMovementService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T19:08:45.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\GABRIEL DIAZ\\source\\repos\\Inventory.Persistence\\Contexts\\InventoryDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Inventory.Persistence\\Contexts\\InventoryDbContext.cs",
+              "ToolTip": "C:\\Users\\GABRIEL DIAZ\\source\\repos\\Inventory.Persistence\\Contexts\\InventoryDbContext.cs",
+              "RelativeToolTip": "..\\Inventory.Persistence\\Contexts\\InventoryDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T15:53:56.488Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 669,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

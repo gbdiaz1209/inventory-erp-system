@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+	  <GenerateDocumentationFile>true</GenerateDocumentationFile>
+		<!--Colocamos estas lineas para el manejo de los ExceptionMiddleware 
+		GenerateDocumentationFile Le dice a .NET que cuando compile, 
+		crea un archivo .xml que contiene todos los comentarios que tú escribas con /// encima de tus métodos.
+		Swagger lee ese archivo para mostrar las descripciones. .-->
+	  <NoWarn>$(NoWarn);1591</NoWarn>
+	  <!--NoWarn: Evita que Visual Studio te llene de advertencias verdes (warnings)
+	  en todo el código si te falta comentar algún método pequeño-->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.12" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.12" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.12">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.12" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Inventory.Business\3. Inventory.Business.csproj" />
+    <ProjectReference Include="..\Inventory.Persistence\4. Inventory.Persistence.csproj" />
+  </ItemGroup>
+
+	
+	
+	
+</Project>

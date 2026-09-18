@@ -1,0 +1,11 @@
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Dto\bin\Debug\net8.0\Inventory.Dto.deps.json
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Dto\bin\Debug\net8.0\Inventory.Dto.dll
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Dto\bin\Debug\net8.0\Inventory.Dto.pdb
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Dto\obj\Debug\net8.0\Inventory.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Dto\obj\Debug\net8.0\Inventory.Dto.AssemblyInfoInputs.cache
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Dto\obj\Debug\net8.0\Inventory.Dto.AssemblyInfo.cs
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Dto\obj\Debug\net8.0\Inventory.Dto.csproj.CoreCompileInputs.cache
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Dto\obj\Debug\net8.0\Inventory.Dto.dll
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Dto\obj\Debug\net8.0\refint\Inventory.Dto.dll
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Dto\obj\Debug\net8.0\Inventory.Dto.pdb
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Dto\obj\Debug\net8.0\ref\Inventory.Dto.dll

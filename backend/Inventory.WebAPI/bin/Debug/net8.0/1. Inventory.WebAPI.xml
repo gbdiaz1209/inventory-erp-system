@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>1. Inventory.WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:InventoryMovementController.Register(Inventory.Business.DTOs.InventoryMovementCreateDto)">
+            <summary>
+            Registra un nuevo movimiento de inventario.
+            </summary>
+            <remarks>
+            Este endpoint valida que el producto exista y que haya stock suficiente 
+            en caso de ser una Salida.
+            </remarks>
+            <param name="request">DTO con ProductId, Quantity y Type (0=Entrada, 1=Salida).</param>
+            <returns>Retorna un mensaje de éxito o un error detallado.</returns>
+            <response code="200">El movimiento fue registrado y el stock actualizado.</response>
+            <response code="400">Datos inválidos o stock insuficiente.</response>
+        </member>
+        <member name="M:InventoryMovementController.GetAll">
+            <summary>
+            Obtiene el historial completo de movimientos de inventario.
+            </summary>
+            <returns>Lista de movimientos registrados.</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,14 @@
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Persistence\bin\Debug\net8.0\Inventory.Persistence.deps.json
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Persistence\bin\Debug\net8.0\Inventory.Persistence.runtimeconfig.json
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Persistence\bin\Debug\net8.0\Inventory.Persistence.dll
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Persistence\bin\Debug\net8.0\Inventory.Persistence.pdb
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Persistence\obj\Debug\net8.0\Inventory.Persistence.csproj.AssemblyReference.cache
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Persistence\obj\Debug\net8.0\Inventory.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Persistence\obj\Debug\net8.0\Inventory.Persistence.AssemblyInfoInputs.cache
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Persistence\obj\Debug\net8.0\Inventory.Persistence.AssemblyInfo.cs
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Persistence\obj\Debug\net8.0\Inventory.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Persistence\obj\Debug\net8.0\Inventory.Persistence.dll
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Persistence\obj\Debug\net8.0\refint\Inventory.Persistence.dll
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Persistence\obj\Debug\net8.0\Inventory.Persistence.pdb
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Persistence\obj\Debug\net8.0\Inventory.Persistence.genruntimeconfig.cache
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Persistence\obj\Debug\net8.0\ref\Inventory.Persistence.dll

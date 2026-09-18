@@ -1,0 +1,17 @@
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Business\bin\Debug\net8.0\3. Inventory.Business.deps.json
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Business\bin\Debug\net8.0\3. Inventory.Business.dll
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Business\bin\Debug\net8.0\3. Inventory.Business.pdb
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Business\bin\Debug\net8.0\2. Inventory.DTOs.dll
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Business\bin\Debug\net8.0\4. Inventory.Persistence.dll
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Business\bin\Debug\net8.0\2. Inventory.DTOs.pdb
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Business\bin\Debug\net8.0\4. Inventory.Persistence.pdb
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Business\obj\Debug\net8.0\3. Inventory.Business.csproj.AssemblyReference.cache
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Business\obj\Debug\net8.0\3. Inventory.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Business\obj\Debug\net8.0\3. Inventory.Business.AssemblyInfoInputs.cache
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Business\obj\Debug\net8.0\3. Inventory.Business.AssemblyInfo.cs
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Business\obj\Debug\net8.0\3. Inventory.Business.csproj.CoreCompileInputs.cache
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Business\obj\Debug\net8.0\3. Inven.87D7E343.Up2Date
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Business\obj\Debug\net8.0\3. Inventory.Business.dll
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Business\obj\Debug\net8.0\refint\3. Inventory.Business.dll
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Business\obj\Debug\net8.0\3. Inventory.Business.pdb
+C:\Users\GABRIEL DIAZ\source\repos\Inventory.Business\obj\Debug\net8.0\ref\3. Inventory.Business.dll
